@@ -1,2 +1,3 @@
----> Here we are reading secrets from Aws Secrets by using amazon/aws-cli image in the init container 
---->for that we need a service account, IAM role and init container
+---> Here we are reading secrets from Aws Secrets by using amazon/aws-cli image in the init container. 
+
+--->for that we need a service account, IAM role and init container.
